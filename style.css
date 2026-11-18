@@ -1,0 +1,7 @@
+body { font-family: -apple-system, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif; color: #24323D; background: #F3EEE6; margin: 0; line-height: 1.7; }
+main { max-width: 720px; margin: 0 auto; padding: 48px 24px 80px; }
+h1 { font-size: 28px; margin-bottom: 4px; }
+h2 { font-size: 19px; margin-top: 36px; }
+.muted { color: #7B8794; font-size: 14px; }
+a { color: #5B7088; }
+img.icon { width: 96px; height: 96px; border-radius: 22px; box-shadow: 0 4px 16px rgba(0,0,0,.12); }

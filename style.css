@@ -1,7 +1,10 @@
-body { font-family: -apple-system, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif; color: #24323D; background: #F3EEE6; margin: 0; line-height: 1.7; }
+body { font-family: -apple-system, "Apple SD Gothic Neo", "Pretendard", "Noto Sans KR", sans-serif; color: #191F28; background: #F2F4F6; margin: 0; line-height: 1.7; }
 main { max-width: 720px; margin: 0 auto; padding: 48px 24px 80px; }
-h1 { font-size: 28px; margin-bottom: 4px; }
-h2 { font-size: 19px; margin-top: 36px; }
-.muted { color: #7B8794; font-size: 14px; }
-a { color: #5B7088; }
-img.icon { width: 96px; height: 96px; border-radius: 22px; box-shadow: 0 4px 16px rgba(0,0,0,.12); }
+.card { background: #fff; border-radius: 24px; padding: 32px; margin-bottom: 16px; }
+h1 { font-size: 30px; margin: 16px 0 4px; }
+h2 { font-size: 19px; margin-top: 32px; }
+.muted { color: #8B95A1; font-size: 15px; }
+a { color: #2F7BF5; text-decoration: none; }
+img.icon { width: 88px; height: 88px; border-radius: 20px; box-shadow: 0 4px 16px rgba(0,0,0,.08); }
+ul { padding-left: 20px; }
+nav a { margin-right: 16px; }
